@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use the CBi spinor reanalysis code, please cite the published software DOI when assigned, and the original Science research."
+title: "NOVA Q / EIT CBi relativistic bonding: reproducible Dirac-Fock spinor-population audit software"
+type: software
+version: "0.3.0"
+authors:
+  - family-names: Mladenovski
+    given-names: Toni
+license: "PolyForm-Noncommercial-1.0.0"
+abstract: "Software for secondary postprocessing and public consistency checks of previously produced DIRAC reference-spinor populations. No original ab initio simulations or independent experimental validation."
+references:
+  - type: article
+    title: "Relativistic collapse of the classical triple bond in the CBi- molecular ion"
+    authors:
+      - family-names: Kahraman
+        given-names: Deniz
+    doi: 10.1126/science.aei1285
