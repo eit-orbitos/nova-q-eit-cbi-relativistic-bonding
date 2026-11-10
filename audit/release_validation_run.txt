@@ -1,0 +1,4 @@
+Executed on build date 2026-11-09:
+python3 scripts/verify_public_release.py: PASS
+python3 scripts/verify_derived_agreement.py: PASS
+These are derived-data checks only; no experimental validation.

@@ -1,0 +1,14 @@
+[
+  {
+    "file": "CBi_Anion_IPEOMCCSD.zip",
+    "sha256": "ca65c856c366df7929597855a965fac13535946521935b139648b9823c3ee93d"
+  },
+  {
+    "file": "CBi_NeutralwithAnionGeometry_X_State_CCSDT.zip",
+    "sha256": "9e2a482eaf4a8cc304500cd1cc073f92f1b26ecdf26caddf1435261ce2d2c424"
+  },
+  {
+    "file": "CBi_NeutralwithAnionGeometry_A_State_CCSDT.zip",
+    "sha256": "25bb8cbe4feaf7f55cf64fb97a355259e002a67ec64e9161b2f2147874c2c644"
+  }
+]

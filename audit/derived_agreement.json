@@ -1,0 +1,8 @@
+{
+  "source": "original DIRAC independently parsed vs prior handoff independent CSV",
+  "rows_compared": 18,
+  "fields_per_row": 6,
+  "fields_compared": 108,
+  "field_discrepancies": [],
+  "verdict": "PASS"
+}

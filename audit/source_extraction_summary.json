@@ -1,0 +1,46 @@
+{
+  "script": "cbi_ao_reconstruction_v02.py",
+  "raw_archive_hashes_match_manifest": 3,
+  "raw_output_members_read": 6,
+  "selected_spinor_rows_parsed": 18,
+  "displayed_AO_column_count_valid": 18,
+  "AO_symmetry_label_patterns_pass": 18,
+  "displayed_AO_cross_symmetry_zero_rows": 18,
+  "max_abs_gross_minus_displayed": 0.0345,
+  "nonzero_threshold_residual_row_count": 18,
+  "fractional_occupation_row_count": 4,
+  "pure_transverse_control_row_count": 6,
+  "raw_output_sha256": [
+    {
+      "archive": "CBi_Anion_IPEOMCCSD.zip",
+      "member": "CBi_Anion_IPEOMCCSD/3z/calc_bic_anion.out",
+      "sha256": "2cccda331e9c570b7594f64894521bd062cd5d7a4e5831627a66857d7fe47751"
+    },
+    {
+      "archive": "CBi_Anion_IPEOMCCSD.zip",
+      "member": "CBi_Anion_IPEOMCCSD/4z/calc_bic_anion.out",
+      "sha256": "bc61aecdf2854e9d171cbd3a8a2228a8548ae7215bb1ddc5c1f04005597b4f78"
+    },
+    {
+      "archive": "CBi_NeutralwithAnionGeometry_X_State_CCSDT.zip",
+      "member": "CBi_NeutralwithAnionGeometry_X_State_CCSDT/3z/calc_bic_anion.out",
+      "sha256": "a6f90f97556662e80e1223ac315724546d87a26012d7b91a6a8feb99c145028e"
+    },
+    {
+      "archive": "CBi_NeutralwithAnionGeometry_X_State_CCSDT.zip",
+      "member": "CBi_NeutralwithAnionGeometry_X_State_CCSDT/4z/calc_bic_anion.out",
+      "sha256": "aac4ab393b37a5d54d5d0a81cc9cc7c392724aa3e8aa678d8ab795fa14fee397"
+    },
+    {
+      "archive": "CBi_NeutralwithAnionGeometry_A_State_CCSDT.zip",
+      "member": "CBi_NeutralwithAnionGeometry_A_State_CCSDT/3z/A-state_CBi.out",
+      "sha256": "fddd0ad6240d01922d0d7b90722a2140e58955811699d64a17012ebbe1243011"
+    },
+    {
+      "archive": "CBi_NeutralwithAnionGeometry_A_State_CCSDT.zip",
+      "member": "CBi_NeutralwithAnionGeometry_A_State_CCSDT/4z/BiC_A_4z.out",
+      "sha256": "2486b9b998837318837f7b740c201f236add71cf4cc1f3e3f2357b819219d823"
+    }
+  ],
+  "status_note": "Displayed AO sum != Gross Total generally: columns truncated by population threshold; not a reconstruction of missing terms."
+}

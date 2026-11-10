@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-09",
+  "status": "LOCAL_REEXECUTION_PASS",
+  "source_archive_hashes": "3/3",
+  "selected_spinor_records": "18/18",
+  "ao_header_checks": "18/18",
+  "source_output_files": "6/6",
+  "data_csv_byte_identical": true,
+  "public_derived_validator": "PASS",
+  "publication": "NOT_PUBLISHED_AT_PACKAGE_BUILD",
+  "physics_claim": "NOT_PROOF",
+  "prepared_for_publication_version": "0.3.0",
+  "license_selection": "AUTHOR_DECLARED"
+}

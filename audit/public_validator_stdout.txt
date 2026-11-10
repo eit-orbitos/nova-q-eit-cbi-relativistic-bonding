@@ -1,0 +1,2 @@
+DERIVED_PUBLIC_VALIDATION=PASS; records=18; reference_states=3; bases=2; conditional_proxies=12; transverse_controls=6; fractional_occupation=4; max_abs_displayed_AO_residual=0.0345
+RAW_PROVENANCE=NOT_TESTED in public-only mode; PHYSICAL_MODEL_VALIDATION=NOT_TESTED
